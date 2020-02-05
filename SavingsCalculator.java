@@ -1,7 +1,6 @@
-/**
+/*
  * This class calculates savings from three different deposits 
  * @author mominchoudhry
- *09/22/2019
  */
 public class SavingsCalculator {
 
