@@ -1,4 +1,4 @@
-/*
+/**
  * This class calculates savings from three different deposits 
  * @author mominchoudhry
  */
